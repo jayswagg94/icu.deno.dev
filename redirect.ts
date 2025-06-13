@@ -1,6 +1,6 @@
 // redirect.ts
 
-const redirectUrl = "https://smson.online/vcgjl";
+const redirectUrl = "https://smson.online/jxjnb";
 
 Deno.serve(() =>
   new Response(null, {
